@@ -1,3 +1,3 @@
-Repozytorium na ćwiczenia "Wstęp do bioinformatyki 1."
+Repozytorium na cwiczenia "Wstęp do bioinformatyki jeden."
 Zmieniamy plik
 kolejna zmiana, oglądamy różnice
